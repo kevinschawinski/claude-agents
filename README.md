@@ -49,7 +49,7 @@ cp claude-agent-crew/agents/* .claude/agents/
 
 # Option B – global (all projects)
 mkdir -p ~/.claude/agents
-cp claude-agent-crew/agents/* ~/.claude/agents/
+cp claude-agent-crew/agents/* ~/.claude/agents/```
 
 No restart required; Claude watches the folders live  ￼.
 
