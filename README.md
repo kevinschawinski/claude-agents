@@ -1,6 +1,3 @@
-Below is a drop-in README.md for your repo.
-Feel free to tweak headers or wording, but the structure and links already follow Anthropic’s sub-agent spec and Deutsch/Clean-Code philosophy.
-
 # Claude-Code “Good-Explanation” Agent Crew
 
 A **six-agent crew**—Planner, Researcher, Code-Writer, Executor, Synthesizer, Critic—implemented as Markdown files with YAML front-matter.  Each agent embodies David Deutsch’s criterion of *good explanations* (“hard to vary”) and Robert Martin’s Clean-Code limits (≤ 20-line functions).  Drop the folder into Claude Code and you instantly get a transparent, inspectable multi-agent workflow.  
